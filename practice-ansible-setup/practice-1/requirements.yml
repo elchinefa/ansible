@@ -1,2 +1,2 @@
-"- src: geerlingguy.ssh-keygen"
-"  name: ssh-keygen"
+- src: andrewrothstein.ssh-user-keygen
+  name: ssh-keygen
