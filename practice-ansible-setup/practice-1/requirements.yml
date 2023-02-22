@@ -1,2 +1,4 @@
 - src: andrewrothstein.ssh-user-keygen
   name: ssh-keygen
+- src: community.general
+  name: all-modules
